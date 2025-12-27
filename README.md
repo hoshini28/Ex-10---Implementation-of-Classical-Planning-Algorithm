@@ -168,8 +168,8 @@ print("PLAN 2:", find_plan(initial_state, goal_state, actions))
 ```
 
 ### SAMPLE OUTPUT:
+<img width="799" height="75" alt="image" src="https://github.com/user-attachments/assets/7f1b2091-5690-4e0e-8674-58b5ef250a6f" />
 
-<img width="980" height="92" alt="image" src="https://github.com/user-attachments/assets/9ddb497d-98b7-4d01-9113-1f13dddd42ab" />
 
 ## PROBLEM STATEMENT:
 
@@ -294,7 +294,8 @@ print(plan)
 
 ## OUTPUT:
 
-<img width="1051" height="117" alt="image" src="https://github.com/user-attachments/assets/07bd0efd-3b19-4ddb-969b-d7252ad5b34a" />
+<img width="1068" height="338" alt="image" src="https://github.com/user-attachments/assets/7855cec1-85ca-4c1b-b2c8-d4eb8a1be06c" />
+
 
 
 ## RESULT:
